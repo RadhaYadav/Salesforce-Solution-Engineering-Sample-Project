@@ -24,7 +24,7 @@ This repository contains two solution engineering projects with a Salesforce the
 1. **Personalized Onboarding Experience**: A role-based onboarding flow that adapts to user roles and industries, featuring Salesforce Lightning components and Trailhead-style progress tracking.
 
 2. **Customer Journey Mapping**: A visualization tool for mapping customer touchpoints, emotions, challenges, and opportunities across different Salesforce clouds (Sales, Marketing, Service).
-   <img width="1440" alt="image" src="https://github.com/user-attachments/assets/e558afd8-a570-4b23-b63e-dc1b768ffa99" />
+   <img width="1440" alt="image" src="https://github.com/user-attachments/assets/e01624fe-3f96-469f-87e4-7e9aaacbd5b8" />
 
 
 ## Features
