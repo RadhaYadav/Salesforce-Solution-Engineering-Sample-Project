@@ -17,13 +17,28 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Salesforce-Themed Solution Engineering Projects
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This repository contains two solution engineering projects with a Salesforce theme:
 
-## Learn More
+1. **Personalized Onboarding Experience**: A role-based onboarding flow that adapts to user roles and industries, featuring Salesforce Lightning components and Trailhead-style progress tracking.
 
-To learn more about Next.js, take a look at the following resources:
+2. **Customer Journey Mapping**: A visualization tool for mapping customer touchpoints, emotions, challenges, and opportunities across different Salesforce clouds (Sales, Marketing, Service).
+
+## Features
+
+- **Salesforce Design System**: Uses Salesforce colors, terminology, and UI patterns
+- **Responsive Design**: Works on desktop, tablet, and mobile devices
+- **Role-Based Personalization**: Adapts content based on user roles
+- **Industry-Specific Templates**: Provides tailored solutions for different industries
+- **Interactive Journey Mapping**: Visualizes customer journeys with Einstein Analytics
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 18.x or later
+- npm or yarn
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
